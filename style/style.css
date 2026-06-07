@@ -1,0 +1,36 @@
+.header{
+    width:1220px;
+    height: 65px;
+    margin: 53px auto 136px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+    gap: 30px;  
+    margin-left: 220px;
+    vertical-align: middle;
+  
+
+}
+.nav-a{
+    color: #37393F;
+    font-size: 18px;
+}
+
+.button{
+    padding: 21px 35px 22px;
+    font-size: 18px;
+    background-color: #6B77E5;
+    color: #FFFFFF;
+    border: none;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.logo{
+    vertical-align: middle;
+}
