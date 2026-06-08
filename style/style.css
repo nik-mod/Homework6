@@ -20,6 +20,7 @@
 .nav-a{
     color: #37393F;
     font-size: 18px;
+    font-family: 'Inter-regular';
 }
 
 .button{
@@ -30,6 +31,7 @@
     border: none;
     vertical-align: middle;
     cursor: pointer;
+    font-family: 'Cabin-semibold';
 }
 .logo{
     vertical-align: middle;
@@ -41,10 +43,14 @@
     text-align: center;
     font-size: 18px;
     margin-bottom: 16px;
+    font-family: 'Inter-medium';
+    color: #37393F;
 }
 .title{
     text-align: center;
     font-size: 40px;
+    font-family: 'Poppins-bold';
+    color: #37393F;
 }
 .grey-maindiv{
     width: 1220px;
@@ -76,17 +82,23 @@
     text-align: center;
     margin: 58px auto 16px;
     font-size: 25px;
+    font-family: 'Poppins-semibold';
+    color: #37393F;
 }
 .box-paragraph{
     text-align: center;
     width: 300px;   
     margin: 0 auto 37px;
     font-size: 18px;
+    font-family: 'Inter-regular';
+    color: #7D7D7D;
 }
 .box-mini-title{
     color: #6B77E5 ;
     text-align: center;
     margin-bottom: 10px;
+    font-family: 'Inter-semibold';
+    font-size: 18px;
 }
 .center{
     font-size: 35px;
@@ -123,17 +135,23 @@
     margin: 0 auto;
 }
 .play{
-    font-size: 25px;
+    font-size: 35px;
 }
 .video-minititle{
     margin-bottom: 16px;
+    font-family: 'Inter-medium';
+    color: #37393F;
 }
 .video-title{
     margin-bottom: 21px;
     font-size: 40px;
+    font-family: 'Poppins-bold';
+     color: #37393F;
 }
 .video-paragraph{
     margin-bottom: 47px;
+    font-family: 'Inter-regular';
+    color: #37393F;
 }
 .photo-div{
     width: 1220px;
@@ -159,17 +177,25 @@
 .team{
     text-align: center;
     margin-bottom: 16px;
+    font-family: 'Inter-medium';
+    color: #37393F;
+    font-size: 18px;
 }
 .experts-div{
     text-align: center;
     margin-bottom: 41px;
+    font-family: 'Poppins-bold';
+    font-size: 40px;
 }
 .expert-name{
     text-align: center;
-    margin:24px 0 4px 0;    
+    margin:24px 0 4px 0;
+    font-family: 'Poppins-semibold';
+    color: #37393F;    
 }
 .whiteblock-paragraph{
     text-align: center;
-   
+    font-family: 'Inter-regular';
+    color: #7D7D7D;
 }
 
