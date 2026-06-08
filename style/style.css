@@ -91,3 +91,47 @@
 .center{
     font-size: 35px;
 }
+.shortvideo-div{
+    width: 100%;
+    height: 557px;
+    position: relative;
+    display: inline-block;
+    margin-bottom: 130px;
+}
+.rectangle{
+    width: 100%;
+    height: 557px;
+    display: block;
+}
+.video-content{
+    position: absolute;
+    width: 511px;
+    height:270.5px;
+    top: 143px;
+    left: 50%;
+    transform: translateX(-50%);
+    margin:0 auto;
+    text-align: center;
+}
+.small-circle{
+    height: 63px;
+    width: 63px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.play{
+    font-size: 25px;
+}
+.video-minititle{
+    margin-bottom: 16px;
+}
+.video-title{
+    margin-bottom: 21px;
+    font-size: 40px;
+}
+.video-paragraph{
+    margin-bottom: 47px;
+}
