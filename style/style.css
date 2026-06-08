@@ -37,3 +37,57 @@
 .fa-solid{
     font-size: 15px;
 }
+.mini-title{
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+.title{
+    text-align: center;
+    font-size: 40px;
+}
+.grey-maindiv{
+    width: 1220px;
+    height: 383px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 41px auto 60px;
+}
+.grey-box{
+    width: 386px;
+    height: 383px;
+    background-color: #F4F4F4;
+}
+.circle{
+    width: 72px;
+    height: 72px;
+    background-color: #40DDB6;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.purple{
+    background-color: #6B77E5;
+}
+.box-title{
+    text-align: center;
+    margin: 58px auto 16px;
+    font-size: 25px;
+}
+.box-paragraph{
+    text-align: center;
+    width: 300px;   
+    margin: 0 auto 37px;
+    font-size: 18px;
+}
+.box-mini-title{
+    color: #6B77E5 ;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.center{
+    font-size: 35px;
+}
